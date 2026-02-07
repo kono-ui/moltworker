@@ -476,3 +476,4 @@ export default {
   fetch: app.fetch,
   scheduled,
 };
+// Trigger redeploy to fix container config
