@@ -18,3 +18,4 @@
 | [posts-021-030-full.md](./posts-021-030-full.md) | 021〜030の記事全文（恋愛・結婚） |
 | [posts-031-040-full.md](./posts-031-040-full.md) | 031〜040の記事全文（家族・育児） |
 | [038-threads-to-paid-note.md](./038-threads-to-paid-note.md) | 038の長編化：Threads投稿→有料note動線パッケージ |
+| [threads-note-tasks.html](./threads-note-tasks.html) | Threads→有料note運用のタスクリスト（チェックボックス付きHTML） |
