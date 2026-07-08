@@ -24,5 +24,6 @@
 | [persona-akari.md](./persona-akari.md) | 当事者型キャラクター「あかり」の設定書（年表・文体・当事者性マップ・商品ロードマップ) |
 | [032-free-note.md](./032-free-note.md) | 032の無料note版：応急処置を無料で完結させ、038有料noteへ送客する入口記事 |
 | [akari-intro-note.md](./akari-intro-note.md) | あかりの自己紹介note（無料・プロフィール固定用。商品案内板＋誠実さの明文化） |
-| [personas-map.md](./personas-map.md) | 100本全体をペルソナ別にグループ化した設計図（6ペルソナ＋全100本マッピング表） |
+| [personas-map.md](./personas-map.md) | 001〜100をペルソナ別にグループ化した設計図（6ペルソナ＋全100本マッピング表） |
+| [101-200-personas-map.md](./101-200-personas-map.md) | 101〜200をペルソナ別にグループ化した設計図（既存7ペルソナへの割り振り＋非該当4本の洗い出し） |
 | [threads-note-tasks.html](./threads-note-tasks.html) | Threads→有料note運用のタスクリスト（チェックボックス付きHTML） |
