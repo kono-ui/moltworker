@@ -12,7 +12,8 @@
 
 | ファイル | 内容 |
 |---|---|
-| [100-personalized-posts.md](./100-personalized-posts.md) | 100本の設計（タイトル＋ヘッダー＋冒頭200字＋解説） |
+| [100-personalized-posts.md](./100-personalized-posts.md) | 001〜100の設計（タイトル＋ヘッダー＋冒頭200字＋解説） |
+| [101-200-personalized-posts.md](./101-200-personalized-posts.md) | 101〜200の設計（続編・第1弾と重複しない新角度で100本） |
 | [posts-001-010-full.md](./posts-001-010-full.md) | 001〜010の記事全文（仕事・キャリア 前半） |
 | [posts-011-020-full.md](./posts-011-020-full.md) | 011〜020の記事全文（仕事・キャリア 後半） |
 | [posts-021-030-full.md](./posts-021-030-full.md) | 021〜030の記事全文（恋愛・結婚） |
